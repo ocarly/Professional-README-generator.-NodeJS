@@ -64,10 +64,9 @@ ${renderLicenseLink(data.license)}
   ${data.contributing}
 
   ##Questions
-  If you have any questions, please contact me at ${data.email}. My github is ${data.github}.
-
-
-
+  If you have any questions, please contact me at [email me](mailto:${data.email})
+  My github is [${data.github}](https://github.com/${data.github})
+  ${renderLicenseSection(data.license)}
 `;
 }
 
