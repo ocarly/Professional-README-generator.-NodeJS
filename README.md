@@ -1,8 +1,8 @@
-# shit
+# Professional README generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  brains
+  A Node.js program that employs input from Inquirer to populate a README.md file for a user's repository.
 
 
 
@@ -21,19 +21,18 @@
 * [Questions](#questions)
 
   ##Installation
-  no
+  npm install iquirer
 
   ##Usage
-  sdgggnn
+  Execute the "node index.js" command at your project's root and respond to the questions as they appear.
 
   ##Tests
-  fdhher b
+  no
 
   ##Contributing
-  refhdnbn
+  Rene
 
   ##Questions
-  If you have any questions, please contact me at sodkjfl;k@kgjlkj.com. My github is jkbfdsgkjb.
-
-
-
+  If you have any questions, please contact me at [email me](mailto:someoneelseknows@gmail.com)
+  My github is [ocarly](https://github.com/ocarly)
+  undefined
