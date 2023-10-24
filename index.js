@@ -18,7 +18,9 @@ choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"]
 }];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+return fs.writeFileSync(path.join(fileName), data)
+}
 
 // TODO: Create a function to initialize app
 function init() {
